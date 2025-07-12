@@ -10,14 +10,8 @@ excel_folder = r"C:\Users\user\Documents\Trabajo\Mercancia"  # Cambia esta ruta
 
 # Diccionario con las direcciones de AnyDesk según la tienda
 anydesk_addresses = {
-    "PENGUIN SAMBIL": "1554254509",
-    "DKNY TOLON": "764951639",
-    "MONACO SAMBIL": "732504233",
-    "PENGUIN LIDER": "1165077696",
-    "PURO EGO": "1286783952",
-    "DKNY CV": "1815369405",
-    "PENGUIN CV": "1430090124",
-    "PENGUIN TOLON": "1120145442"
+    "NAME_A":"ANYDESK_NUMBER",
+    "NAME_B":"ANYDESK_NUMBER"
 }
 
 # Listar los archivos Excel en la carpeta
